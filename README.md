@@ -1,3 +1,2 @@
 # hello-world
-This is my first repository
-//lmao
+This is a collection of the codes I've written for ICS_2602
